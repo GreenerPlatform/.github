@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="logo.png" alt="GreenerPlatform" width="560"/>
-</div>
-
 ## GreenerPlatform
 
 **Deterministic first, AI for reasoning.** Open-source SRE and platform tools for
