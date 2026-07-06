@@ -1,11 +1,12 @@
 ## GreenerPlatform
 
 **Deterministic first, AI for reasoning.** Open-source SRE and platform tools for
-Kubernetes — the deterministic *evidence layer* an AI or agent reasons over, instead of
-another LLM guessing at your cluster.
+Kubernetes — the deterministic *evidence layer* a capable model reasons over, so its
+analysis is the same every time and every claim is one you can check.
 
-As AI moves into operations, the moat is not a smarter model — it is evidence the model
-is **bounded by**: reproducible, auditable, CI-safe. We call it **AIReliability**.
+Modern models are good at operations and getting better. The missing piece for *automating*
+decisions isn't a smarter model — it's evidence the model is **bounded by**: reproducible,
+auditable, CI-safe. We call it **AIReliability**.
 
 ### What we build
 - **[kubectl-sentinel](https://github.com/GreenerPlatform/kubectl-sentinel)** — a point-in-time cluster health snapshot across 15 dimensions, with severity rules and a fix command on every finding. Structured JSON, exit codes, runs in CI with no internet.
