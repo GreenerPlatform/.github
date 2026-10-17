@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/greenerplatform-mark.svg" alt="GreenerPlatform" width="128"/>
+  <img src="assets/greenerplatform-hero.png" alt="GreenerPlatform — open-source Kubernetes evidence" width="100%"/>
 </p>
 
 <h1 align="center">GreenerPlatform</h1>
